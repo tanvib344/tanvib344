@@ -61,8 +61,6 @@ Role-based login system for doctors, patients, and admins.
 | Data Science with Python                   | Udemy                   | 2025           |
 | Tableau Dashboarding                       | Skillified              | Ongoing        |
 
-📂 [View my Certificates →](https://github.com/tanviballal/certificates-portfolio-tanvi)
-
 ---
 
 ## 🧠 Learning Philosophy
